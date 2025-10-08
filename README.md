@@ -1,7 +1,7 @@
 #Hi 👋 My name is phunsap
 ========================
 <img
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1wcGQwcWFrdTFqazQxdnBmZmdjdm5pNmtnMzc1YTE3b256ZnJ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8H80IVPjAdKY8/giphy.gif" width="500" height="500" />
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1wcGQwcWFrdTFqazQxdnBmZmdjdm5pNmtnMzc1YTE3b256ZnJ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8H80IVPjAdKY8/giphy.gif" width="250" height="250" />
 
 ![](https://komarev.com/ghpvc/?username=Phunsap2547&color=ff69b4)
 
