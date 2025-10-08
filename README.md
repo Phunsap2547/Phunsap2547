@@ -7,7 +7,6 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1wcGQwcWFrdTFqazQxdnBmZ
 
 student
 -------
-
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [phunsap.k@ku.th](mailto:phunsap.k@ku.th)
 <p align="left">
